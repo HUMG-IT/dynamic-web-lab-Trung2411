@@ -16,6 +16,7 @@
   "dependencies": {
     "chromedriver": "^130.0.2",
     "express": "^4.21.1",
+    "nodemon": "^3.1.9",
     "selenium-webdriver": "^4.26.0",
     "sqlite": "^3.0.6",
     "sqlite3": "^5.1.7"
